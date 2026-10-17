@@ -1,0 +1,2498 @@
+[
+ {
+  "id": "masala-oats-upma",
+  "title": "Masala Oats Upma",
+  "meals": [
+   "breakfast"
+  ],
+  "diet": "vegan",
+  "allergens": [
+   "gluten"
+  ],
+  "cuisine": "Indian",
+  "minutes": 15,
+  "nutrition": {
+   "kcal": 280,
+   "protein": 9,
+   "carbs": 44,
+   "fat": 7
+  },
+  "ingredients": [
+   {
+    "name": "oats",
+    "qty": 50.0,
+    "unit": "g"
+   },
+   {
+    "name": "onion",
+    "qty": 30.0,
+    "unit": "g"
+   },
+   {
+    "name": "carrot",
+    "qty": 30.0,
+    "unit": "g"
+   },
+   {
+    "name": "green peas",
+    "qty": 20.0,
+    "unit": "g"
+   },
+   {
+    "name": "mustard seeds",
+    "qty": 1.0,
+    "unit": "tsp"
+   },
+   {
+    "name": "oil",
+    "qty": 1.0,
+    "unit": "tsp"
+   }
+  ],
+  "steps": [
+   "Dry roast the oats for 2 minutes and set aside.",
+   "Temper mustard seeds in oil, then saute onion, carrot and peas.",
+   "Add oats with 150 ml water and cook until soft and fluffy."
+  ],
+  "emoji": "🥣",
+  "tags": [
+   "high-fibre",
+   "quick"
+  ],
+  "color": "#bbf7d0",
+  "image": "/static/images/recipes/masala-oats-upma.svg"
+ },
+ {
+  "id": "poha-with-peanuts",
+  "title": "Poha with Peanuts",
+  "meals": [
+   "breakfast"
+  ],
+  "diet": "vegan",
+  "allergens": [
+   "peanut"
+  ],
+  "cuisine": "Indian",
+  "minutes": 20,
+  "nutrition": {
+   "kcal": 330,
+   "protein": 8,
+   "carbs": 52,
+   "fat": 10
+  },
+  "ingredients": [
+   {
+    "name": "poha",
+    "qty": 60.0,
+    "unit": "g"
+   },
+   {
+    "name": "onion",
+    "qty": 40.0,
+    "unit": "g"
+   },
+   {
+    "name": "peanuts",
+    "qty": 15.0,
+    "unit": "g"
+   },
+   {
+    "name": "turmeric",
+    "qty": 0.5,
+    "unit": "tsp"
+   },
+   {
+    "name": "lemon",
+    "qty": 0.5,
+    "unit": ""
+   },
+   {
+    "name": "oil",
+    "qty": 1.0,
+    "unit": "tsp"
+   }
+  ],
+  "steps": [
+   "Rinse the poha and drain well.",
+   "Fry peanuts, then onion and turmeric in oil.",
+   "Fold in poha, steam 3 minutes and finish with lemon."
+  ],
+  "emoji": "🍛",
+  "tags": [],
+  "color": "#fed7aa",
+  "image": "/static/images/recipes/poha-with-peanuts.svg"
+ },
+ {
+  "id": "vegetable-omelette",
+  "title": "Vegetable Omelette",
+  "meals": [
+   "breakfast"
+  ],
+  "diet": "vegetarian",
+  "allergens": [
+   "egg"
+  ],
+  "cuisine": "Continental",
+  "minutes": 12,
+  "nutrition": {
+   "kcal": 260,
+   "protein": 18,
+   "carbs": 6,
+   "fat": 18
+  },
+  "ingredients": [
+   {
+    "name": "eggs",
+    "qty": 2.0,
+    "unit": ""
+   },
+   {
+    "name": "onion",
+    "qty": 30.0,
+    "unit": "g"
+   },
+   {
+    "name": "tomato",
+    "qty": 40.0,
+    "unit": "g"
+   },
+   {
+    "name": "spinach",
+    "qty": 30.0,
+    "unit": "g"
+   },
+   {
+    "name": "oil",
+    "qty": 1.0,
+    "unit": "tsp"
+   },
+   {
+    "name": "pepper",
+    "qty": 0.25,
+    "unit": "tsp"
+   }
+  ],
+  "steps": [
+   "Beat the eggs with pepper.",
+   "Saute onion, tomato and spinach for 2 minutes.",
+   "Pour in eggs and cook until set, then fold."
+  ],
+  "emoji": "🍳",
+  "tags": [
+   "high-protein",
+   "keto",
+   "quick"
+  ],
+  "color": "#fde68a",
+  "image": "/static/images/recipes/vegetable-omelette.svg"
+ },
+ {
+  "id": "moong-dal-chilla",
+  "title": "Moong Dal Chilla",
+  "meals": [
+   "breakfast"
+  ],
+  "diet": "vegan",
+  "allergens": [],
+  "cuisine": "Indian",
+  "minutes": 20,
+  "nutrition": {
+   "kcal": 240,
+   "protein": 15,
+   "carbs": 33,
+   "fat": 5
+  },
+  "ingredients": [
+   {
+    "name": "moong dal",
+    "qty": 60.0,
+    "unit": "g"
+   },
+   {
+    "name": "onion",
+    "qty": 30.0,
+    "unit": "g"
+   },
+   {
+    "name": "coriander",
+    "qty": 10.0,
+    "unit": "g"
+   },
+   {
+    "name": "ginger",
+    "qty": 0.5,
+    "unit": "tsp"
+   },
+   {
+    "name": "oil",
+    "qty": 1.0,
+    "unit": "tsp"
+   }
+  ],
+  "steps": [
+   "Soak dal for 3 hours and grind to a smooth batter.",
+   "Mix in onion, coriander and ginger.",
+   "Cook thin pancakes on a hot pan until golden."
+  ],
+  "emoji": "🥞",
+  "tags": [
+   "high-protein"
+  ],
+  "color": "#bfdbfe",
+  "image": "/static/images/recipes/moong-dal-chilla.svg"
+ },
+ {
+  "id": "idli-with-sambar",
+  "title": "Idli with Sambar",
+  "meals": [
+   "breakfast"
+  ],
+  "diet": "vegan",
+  "allergens": [],
+  "cuisine": "South Indian",
+  "minutes": 30,
+  "nutrition": {
+   "kcal": 300,
+   "protein": 10,
+   "carbs": 56,
+   "fat": 4
+  },
+  "ingredients": [
+   {
+    "name": "idli batter",
+    "qty": 150.0,
+    "unit": "g"
+   },
+   {
+    "name": "toor dal",
+    "qty": 30.0,
+    "unit": "g"
+   },
+   {
+    "name": "mixed vegetables",
+    "qty": 80.0,
+    "unit": "g"
+   },
+   {
+    "name": "tomato",
+    "qty": 40.0,
+    "unit": "g"
+   },
+   {
+    "name": "tamarind",
+    "qty": 5.0,
+    "unit": "g"
+   },
+   {
+    "name": "mustard seeds",
+    "qty": 0.5,
+    "unit": "tsp"
+   }
+  ],
+  "steps": [
+   "Steam idlis in moulds for 12 minutes.",
+   "Pressure cook dal with vegetables and tomato.",
+   "Simmer with tamarind and a mustard tempering."
+  ],
+  "emoji": "🍚",
+  "tags": [
+   "high-fibre"
+  ],
+  "color": "#fde68a",
+  "image": "/static/images/recipes/idli-with-sambar.svg"
+ },
+ {
+  "id": "greek-yogurt-berry-bowl",
+  "title": "Greek Yogurt Berry Bowl",
+  "meals": [
+   "breakfast"
+  ],
+  "diet": "vegetarian",
+  "allergens": [
+   "dairy",
+   "tree-nut"
+  ],
+  "cuisine": "Continental",
+  "minutes": 5,
+  "nutrition": {
+   "kcal": 270,
+   "protein": 17,
+   "carbs": 30,
+   "fat": 9
+  },
+  "ingredients": [
+   {
+    "name": "greek yogurt",
+    "qty": 150.0,
+    "unit": "g"
+   },
+   {
+    "name": "mixed berries",
+    "qty": 80.0,
+    "unit": "g"
+   },
+   {
+    "name": "almonds",
+    "qty": 15.0,
+    "unit": "g"
+   },
+   {
+    "name": "honey",
+    "qty": 1.0,
+    "unit": "tsp"
+   }
+  ],
+  "steps": [
+   "Spoon yogurt into a bowl.",
+   "Top with berries and chopped almonds.",
+   "Drizzle with honey."
+  ],
+  "emoji": "🫐",
+  "tags": [
+   "high-protein",
+   "quick"
+  ],
+  "color": "#fecaca",
+  "image": "/static/images/recipes/greek-yogurt-berry-bowl.svg"
+ },
+ {
+  "id": "banana-peanut-butter-smoothie",
+  "title": "Banana Peanut Butter Smoothie",
+  "meals": [
+   "breakfast"
+  ],
+  "diet": "vegan",
+  "allergens": [
+   "peanut",
+   "soy"
+  ],
+  "cuisine": "Continental",
+  "minutes": 5,
+  "nutrition": {
+   "kcal": 340,
+   "protein": 13,
+   "carbs": 44,
+   "fat": 13
+  },
+  "ingredients": [
+   {
+    "name": "banana",
+    "qty": 1.0,
+    "unit": ""
+   },
+   {
+    "name": "soy milk",
+    "qty": 250.0,
+    "unit": "ml"
+   },
+   {
+    "name": "peanut butter",
+    "qty": 1.0,
+    "unit": "tbsp"
+   },
+   {
+    "name": "oats",
+    "qty": 20.0,
+    "unit": "g"
+   }
+  ],
+  "steps": [
+   "Add all ingredients to a blender.",
+   "Blend until completely smooth.",
+   "Serve chilled."
+  ],
+  "emoji": "🥤",
+  "tags": [
+   "quick"
+  ],
+  "color": "#fbcfe8",
+  "image": "/static/images/recipes/banana-peanut-butter-smoothie.svg"
+ },
+ {
+  "id": "paneer-bhurji",
+  "title": "Paneer Bhurji",
+  "meals": [
+   "breakfast"
+  ],
+  "diet": "vegetarian",
+  "allergens": [
+   "dairy"
+  ],
+  "cuisine": "Indian",
+  "minutes": 15,
+  "nutrition": {
+   "kcal": 320,
+   "protein": 20,
+   "carbs": 8,
+   "fat": 22
+  },
+  "ingredients": [
+   {
+    "name": "paneer",
+    "qty": 100.0,
+    "unit": "g"
+   },
+   {
+    "name": "onion",
+    "qty": 40.0,
+    "unit": "g"
+   },
+   {
+    "name": "tomato",
+    "qty": 50.0,
+    "unit": "g"
+   },
+   {
+    "name": "capsicum",
+    "qty": 30.0,
+    "unit": "g"
+   },
+   {
+    "name": "oil",
+    "qty": 1.0,
+    "unit": "tsp"
+   },
+   {
+    "name": "turmeric",
+    "qty": 0.25,
+    "unit": "tsp"
+   }
+  ],
+  "steps": [
+   "Crumble the paneer.",
+   "Saute onion, capsicum and tomato with turmeric.",
+   "Add paneer and cook 3 minutes."
+  ],
+  "emoji": "🧀",
+  "tags": [
+   "high-protein",
+   "keto",
+   "quick"
+  ],
+  "color": "#fde68a",
+  "image": "/static/images/recipes/paneer-bhurji.svg"
+ },
+ {
+  "id": "avocado-egg-toast",
+  "title": "Avocado Egg Toast",
+  "meals": [
+   "breakfast"
+  ],
+  "diet": "vegetarian",
+  "allergens": [
+   "gluten",
+   "egg"
+  ],
+  "cuisine": "Continental",
+  "minutes": 10,
+  "nutrition": {
+   "kcal": 350,
+   "protein": 15,
+   "carbs": 28,
+   "fat": 21
+  },
+  "ingredients": [
+   {
+    "name": "whole wheat bread",
+    "qty": 2.0,
+    "unit": ""
+   },
+   {
+    "name": "avocado",
+    "qty": 0.5,
+    "unit": ""
+   },
+   {
+    "name": "eggs",
+    "qty": 1.0,
+    "unit": ""
+   },
+   {
+    "name": "pepper",
+    "qty": 0.25,
+    "unit": "tsp"
+   }
+  ],
+  "steps": [
+   "Toast the bread.",
+   "Mash avocado with pepper and spread on top.",
+   "Add a fried or poached egg."
+  ],
+  "emoji": "🥑",
+  "tags": [
+   "quick"
+  ],
+  "color": "#bfdbfe",
+  "image": "/static/images/recipes/avocado-egg-toast.svg"
+ },
+ {
+  "id": "chia-coconut-pudding",
+  "title": "Chia Coconut Pudding",
+  "meals": [
+   "breakfast"
+  ],
+  "diet": "vegan",
+  "allergens": [],
+  "cuisine": "Continental",
+  "minutes": 5,
+  "nutrition": {
+   "kcal": 260,
+   "protein": 6,
+   "carbs": 22,
+   "fat": 17
+  },
+  "ingredients": [
+   {
+    "name": "chia seeds",
+    "qty": 30.0,
+    "unit": "g"
+   },
+   {
+    "name": "coconut milk",
+    "qty": 150.0,
+    "unit": "ml"
+   },
+   {
+    "name": "mixed berries",
+    "qty": 50.0,
+    "unit": "g"
+   }
+  ],
+  "steps": [
+   "Whisk chia seeds into coconut milk.",
+   "Refrigerate overnight.",
+   "Top with berries before serving."
+  ],
+  "emoji": "🥥",
+  "tags": [
+   "high-fibre",
+   "quick"
+  ],
+  "color": "#fecaca",
+  "image": "/static/images/recipes/chia-coconut-pudding.svg"
+ },
+ {
+  "id": "scrambled-tofu",
+  "title": "Scrambled Tofu",
+  "meals": [
+   "breakfast"
+  ],
+  "diet": "vegan",
+  "allergens": [
+   "soy"
+  ],
+  "cuisine": "Continental",
+  "minutes": 12,
+  "nutrition": {
+   "kcal": 230,
+   "protein": 18,
+   "carbs": 8,
+   "fat": 14
+  },
+  "ingredients": [
+   {
+    "name": "tofu",
+    "qty": 150.0,
+    "unit": "g"
+   },
+   {
+    "name": "onion",
+    "qty": 30.0,
+    "unit": "g"
+   },
+   {
+    "name": "capsicum",
+    "qty": 40.0,
+    "unit": "g"
+   },
+   {
+    "name": "turmeric",
+    "qty": 0.25,
+    "unit": "tsp"
+   },
+   {
+    "name": "oil",
+    "qty": 1.0,
+    "unit": "tsp"
+   }
+  ],
+  "steps": [
+   "Crumble the tofu.",
+   "Saute onion and capsicum with turmeric.",
+   "Add tofu and cook until dry and golden."
+  ],
+  "emoji": "🍳",
+  "tags": [
+   "high-protein",
+   "keto",
+   "quick"
+  ],
+  "color": "#fbcfe8",
+  "image": "/static/images/recipes/scrambled-tofu.svg"
+ },
+ {
+  "id": "smoked-salmon-egg-scramble",
+  "title": "Smoked Salmon Egg Scramble",
+  "meals": [
+   "breakfast"
+  ],
+  "diet": "non-veg",
+  "allergens": [
+   "fish",
+   "egg"
+  ],
+  "cuisine": "Continental",
+  "minutes": 10,
+  "nutrition": {
+   "kcal": 340,
+   "protein": 28,
+   "carbs": 4,
+   "fat": 24
+  },
+  "ingredients": [
+   {
+    "name": "smoked salmon",
+    "qty": 60.0,
+    "unit": "g"
+   },
+   {
+    "name": "eggs",
+    "qty": 2.0,
+    "unit": ""
+   },
+   {
+    "name": "spinach",
+    "qty": 30.0,
+    "unit": "g"
+   },
+   {
+    "name": "oil",
+    "qty": 1.0,
+    "unit": "tsp"
+   }
+  ],
+  "steps": [
+   "Whisk the eggs.",
+   "Wilt spinach in a pan with oil.",
+   "Add eggs, then fold in salmon at the end."
+  ],
+  "emoji": "🐟",
+  "tags": [
+   "high-protein",
+   "keto",
+   "quick"
+  ],
+  "color": "#fbcfe8",
+  "image": "/static/images/recipes/smoked-salmon-egg-scramble.svg"
+ },
+ {
+  "id": "dal-tadka-with-brown-rice",
+  "title": "Dal Tadka with Brown Rice",
+  "meals": [
+   "lunch",
+   "dinner"
+  ],
+  "diet": "vegan",
+  "allergens": [],
+  "cuisine": "Indian",
+  "minutes": 35,
+  "nutrition": {
+   "kcal": 480,
+   "protein": 20,
+   "carbs": 78,
+   "fat": 8
+  },
+  "ingredients": [
+   {
+    "name": "toor dal",
+    "qty": 70.0,
+    "unit": "g"
+   },
+   {
+    "name": "brown rice",
+    "qty": 80.0,
+    "unit": "g"
+   },
+   {
+    "name": "onion",
+    "qty": 40.0,
+    "unit": "g"
+   },
+   {
+    "name": "tomato",
+    "qty": 50.0,
+    "unit": "g"
+   },
+   {
+    "name": "garlic",
+    "qty": 2.0,
+    "unit": ""
+   },
+   {
+    "name": "cumin",
+    "qty": 1.0,
+    "unit": "tsp"
+   },
+   {
+    "name": "oil",
+    "qty": 1.0,
+    "unit": "tbsp"
+   }
+  ],
+  "steps": [
+   "Pressure cook dal until soft.",
+   "Cook the brown rice separately.",
+   "Make a tadka of cumin, garlic, onion and tomato, then stir into dal."
+  ],
+  "emoji": "🍲",
+  "tags": [
+   "high-fibre"
+  ],
+  "color": "#fecaca",
+  "image": "/static/images/recipes/dal-tadka-with-brown-rice.svg"
+ },
+ {
+  "id": "rajma-chawal",
+  "title": "Rajma Chawal",
+  "meals": [
+   "lunch",
+   "dinner"
+  ],
+  "diet": "vegan",
+  "allergens": [],
+  "cuisine": "Indian",
+  "minutes": 45,
+  "nutrition": {
+   "kcal": 520,
+   "protein": 21,
+   "carbs": 88,
+   "fat": 8
+  },
+  "ingredients": [
+   {
+    "name": "rajma",
+    "qty": 70.0,
+    "unit": "g"
+   },
+   {
+    "name": "rice",
+    "qty": 80.0,
+    "unit": "g"
+   },
+   {
+    "name": "onion",
+    "qty": 50.0,
+    "unit": "g"
+   },
+   {
+    "name": "tomato",
+    "qty": 80.0,
+    "unit": "g"
+   },
+   {
+    "name": "ginger",
+    "qty": 1.0,
+    "unit": "tsp"
+   },
+   {
+    "name": "garam masala",
+    "qty": 1.0,
+    "unit": "tsp"
+   },
+   {
+    "name": "oil",
+    "qty": 1.0,
+    "unit": "tbsp"
+   }
+  ],
+  "steps": [
+   "Pressure cook soaked rajma until tender.",
+   "Cook a masala of onion, tomato, ginger and garam masala.",
+   "Simmer rajma in the masala and serve over rice."
+  ],
+  "emoji": "🍛",
+  "tags": [
+   "high-fibre"
+  ],
+  "color": "#bbf7d0",
+  "image": "/static/images/recipes/rajma-chawal.svg"
+ },
+ {
+  "id": "chole-with-roti",
+  "title": "Chole with Roti",
+  "meals": [
+   "lunch",
+   "dinner"
+  ],
+  "diet": "vegan",
+  "allergens": [
+   "gluten"
+  ],
+  "cuisine": "Indian",
+  "minutes": 40,
+  "nutrition": {
+   "kcal": 500,
+   "protein": 19,
+   "carbs": 78,
+   "fat": 12
+  },
+  "ingredients": [
+   {
+    "name": "chickpeas",
+    "qty": 80.0,
+    "unit": "g"
+   },
+   {
+    "name": "whole wheat flour",
+    "qty": 60.0,
+    "unit": "g"
+   },
+   {
+    "name": "onion",
+    "qty": 50.0,
+    "unit": "g"
+   },
+   {
+    "name": "tomato",
+    "qty": 80.0,
+    "unit": "g"
+   },
+   {
+    "name": "garam masala",
+    "qty": 1.0,
+    "unit": "tsp"
+   },
+   {
+    "name": "oil",
+    "qty": 1.0,
+    "unit": "tbsp"
+   }
+  ],
+  "steps": [
+   "Pressure cook the chickpeas.",
+   "Simmer in an onion-tomato masala.",
+   "Knead dough and cook rotis to serve alongside."
+  ],
+  "emoji": "🫓",
+  "tags": [
+   "high-fibre"
+  ],
+  "color": "#fbcfe8",
+  "image": "/static/images/recipes/chole-with-roti.svg"
+ },
+ {
+  "id": "quinoa-veggie-power-bowl",
+  "title": "Quinoa Veggie Power Bowl",
+  "meals": [
+   "lunch",
+   "dinner"
+  ],
+  "diet": "vegan",
+  "allergens": [
+   "sesame"
+  ],
+  "cuisine": "Mediterranean",
+  "minutes": 25,
+  "nutrition": {
+   "kcal": 420,
+   "protein": 18,
+   "carbs": 58,
+   "fat": 12
+  },
+  "ingredients": [
+   {
+    "name": "quinoa",
+    "qty": 70.0,
+    "unit": "g"
+   },
+   {
+    "name": "chickpeas",
+    "qty": 60.0,
+    "unit": "g"
+   },
+   {
+    "name": "spinach",
+    "qty": 40.0,
+    "unit": "g"
+   },
+   {
+    "name": "capsicum",
+    "qty": 40.0,
+    "unit": "g"
+   },
+   {
+    "name": "cherry tomatoes",
+    "qty": 50.0,
+    "unit": "g"
+   },
+   {
+    "name": "tahini",
+    "qty": 1.0,
+    "unit": "tbsp"
+   },
+   {
+    "name": "lemon",
+    "qty": 0.5,
+    "unit": ""
+   }
+  ],
+  "steps": [
+   "Cook quinoa until fluffy.",
+   "Arrange vegetables and chickpeas on top.",
+   "Whisk tahini with lemon and water, then drizzle."
+  ],
+  "emoji": "🥗",
+  "tags": [
+   "high-fibre",
+   "high-protein"
+  ],
+  "color": "#bfdbfe",
+  "image": "/static/images/recipes/quinoa-veggie-power-bowl.svg"
+ },
+ {
+  "id": "paneer-tikka-wrap",
+  "title": "Paneer Tikka Wrap",
+  "meals": [
+   "lunch",
+   "dinner"
+  ],
+  "diet": "vegetarian",
+  "allergens": [
+   "gluten",
+   "dairy"
+  ],
+  "cuisine": "Indian",
+  "minutes": 25,
+  "nutrition": {
+   "kcal": 480,
+   "protein": 24,
+   "carbs": 48,
+   "fat": 20
+  },
+  "ingredients": [
+   {
+    "name": "paneer",
+    "qty": 80.0,
+    "unit": "g"
+   },
+   {
+    "name": "whole wheat wrap",
+    "qty": 1.0,
+    "unit": ""
+   },
+   {
+    "name": "onion",
+    "qty": 30.0,
+    "unit": "g"
+   },
+   {
+    "name": "capsicum",
+    "qty": 40.0,
+    "unit": "g"
+   },
+   {
+    "name": "yogurt",
+    "qty": 30.0,
+    "unit": "g"
+   },
+   {
+    "name": "garam masala",
+    "qty": 0.5,
+    "unit": "tsp"
+   }
+  ],
+  "steps": [
+   "Marinate paneer and capsicum in yogurt and masala.",
+   "Grill until lightly charred.",
+   "Roll up in a wrap with sliced onion."
+  ],
+  "emoji": "🌯",
+  "tags": [
+   "high-protein"
+  ],
+  "color": "#bfdbfe",
+  "image": "/static/images/recipes/paneer-tikka-wrap.svg"
+ },
+ {
+  "id": "vegetable-khichdi",
+  "title": "Vegetable Khichdi",
+  "meals": [
+   "lunch",
+   "dinner"
+  ],
+  "diet": "vegan",
+  "allergens": [],
+  "cuisine": "Indian",
+  "minutes": 30,
+  "nutrition": {
+   "kcal": 400,
+   "protein": 15,
+   "carbs": 68,
+   "fat": 7
+  },
+  "ingredients": [
+   {
+    "name": "rice",
+    "qty": 50.0,
+    "unit": "g"
+   },
+   {
+    "name": "moong dal",
+    "qty": 40.0,
+    "unit": "g"
+   },
+   {
+    "name": "mixed vegetables",
+    "qty": 100.0,
+    "unit": "g"
+   },
+   {
+    "name": "cumin",
+    "qty": 0.5,
+    "unit": "tsp"
+   },
+   {
+    "name": "turmeric",
+    "qty": 0.25,
+    "unit": "tsp"
+   },
+   {
+    "name": "oil",
+    "qty": 1.0,
+    "unit": "tsp"
+   }
+  ],
+  "steps": [
+   "Rinse rice and dal together.",
+   "Saute cumin, turmeric and vegetables in oil.",
+   "Add rice, dal and water, then cook until creamy."
+  ],
+  "emoji": "🥘",
+  "tags": [
+   "quick"
+  ],
+  "color": "#bbf7d0",
+  "image": "/static/images/recipes/vegetable-khichdi.svg"
+ },
+ {
+  "id": "chickpea-salad-bowl",
+  "title": "Chickpea Salad Bowl",
+  "meals": [
+   "lunch"
+  ],
+  "diet": "vegan",
+  "allergens": [],
+  "cuisine": "Mediterranean",
+  "minutes": 15,
+  "nutrition": {
+   "kcal": 360,
+   "protein": 15,
+   "carbs": 42,
+   "fat": 14
+  },
+  "ingredients": [
+   {
+    "name": "chickpeas",
+    "qty": 100.0,
+    "unit": "g"
+   },
+   {
+    "name": "cucumber",
+    "qty": 80.0,
+    "unit": "g"
+   },
+   {
+    "name": "tomato",
+    "qty": 80.0,
+    "unit": "g"
+   },
+   {
+    "name": "onion",
+    "qty": 30.0,
+    "unit": "g"
+   },
+   {
+    "name": "olive oil",
+    "qty": 1.0,
+    "unit": "tbsp"
+   },
+   {
+    "name": "lemon",
+    "qty": 0.5,
+    "unit": ""
+   }
+  ],
+  "steps": [
+   "Combine chickpeas and chopped vegetables.",
+   "Dress with olive oil and lemon.",
+   "Season and toss well."
+  ],
+  "emoji": "🥗",
+  "tags": [
+   "high-fibre",
+   "quick"
+  ],
+  "color": "#e9d5ff",
+  "image": "/static/images/recipes/chickpea-salad-bowl.svg"
+ },
+ {
+  "id": "grilled-chicken-salad",
+  "title": "Grilled Chicken Salad",
+  "meals": [
+   "lunch",
+   "dinner"
+  ],
+  "diet": "non-veg",
+  "allergens": [],
+  "cuisine": "Continental",
+  "minutes": 20,
+  "nutrition": {
+   "kcal": 380,
+   "protein": 38,
+   "carbs": 12,
+   "fat": 20
+  },
+  "ingredients": [
+   {
+    "name": "chicken breast",
+    "qty": 150.0,
+    "unit": "g"
+   },
+   {
+    "name": "lettuce",
+    "qty": 60.0,
+    "unit": "g"
+   },
+   {
+    "name": "cucumber",
+    "qty": 60.0,
+    "unit": "g"
+   },
+   {
+    "name": "tomato",
+    "qty": 60.0,
+    "unit": "g"
+   },
+   {
+    "name": "olive oil",
+    "qty": 1.0,
+    "unit": "tbsp"
+   },
+   {
+    "name": "pepper",
+    "qty": 0.25,
+    "unit": "tsp"
+   }
+  ],
+  "steps": [
+   "Season and grill the chicken until cooked through.",
+   "Chop the salad vegetables.",
+   "Slice the chicken over the salad and dress with olive oil."
+  ],
+  "emoji": "🥗",
+  "tags": [
+   "high-protein",
+   "keto"
+  ],
+  "color": "#fde68a",
+  "image": "/static/images/recipes/grilled-chicken-salad.svg"
+ },
+ {
+  "id": "home-style-chicken-curry-with-rice",
+  "title": "Home-style Chicken Curry with Rice",
+  "meals": [
+   "lunch",
+   "dinner"
+  ],
+  "diet": "non-veg",
+  "allergens": [],
+  "cuisine": "Indian",
+  "minutes": 40,
+  "nutrition": {
+   "kcal": 560,
+   "protein": 38,
+   "carbs": 65,
+   "fat": 15
+  },
+  "ingredients": [
+   {
+    "name": "chicken",
+    "qty": 150.0,
+    "unit": "g"
+   },
+   {
+    "name": "rice",
+    "qty": 80.0,
+    "unit": "g"
+   },
+   {
+    "name": "onion",
+    "qty": 60.0,
+    "unit": "g"
+   },
+   {
+    "name": "tomato",
+    "qty": 80.0,
+    "unit": "g"
+   },
+   {
+    "name": "ginger",
+    "qty": 1.0,
+    "unit": "tsp"
+   },
+   {
+    "name": "garam masala",
+    "qty": 1.0,
+    "unit": "tsp"
+   },
+   {
+    "name": "oil",
+    "qty": 1.0,
+    "unit": "tbsp"
+   }
+  ],
+  "steps": [
+   "Brown the onion, then add ginger, tomato and masala.",
+   "Add chicken and simmer until tender.",
+   "Serve with steamed rice."
+  ],
+  "emoji": "🍗",
+  "tags": [
+   "high-protein"
+  ],
+  "color": "#bfdbfe",
+  "image": "/static/images/recipes/home-style-chicken-curry-with-rice.svg"
+ },
+ {
+  "id": "veg-egg-fried-rice",
+  "title": "Veg Egg Fried Rice",
+  "meals": [
+   "lunch",
+   "dinner"
+  ],
+  "diet": "vegetarian",
+  "allergens": [
+   "egg",
+   "soy"
+  ],
+  "cuisine": "Asian",
+  "minutes": 20,
+  "nutrition": {
+   "kcal": 440,
+   "protein": 16,
+   "carbs": 62,
+   "fat": 14
+  },
+  "ingredients": [
+   {
+    "name": "rice",
+    "qty": 80.0,
+    "unit": "g"
+   },
+   {
+    "name": "eggs",
+    "qty": 1.0,
+    "unit": ""
+   },
+   {
+    "name": "mixed vegetables",
+    "qty": 80.0,
+    "unit": "g"
+   },
+   {
+    "name": "soy sauce",
+    "qty": 1.0,
+    "unit": "tbsp"
+   },
+   {
+    "name": "oil",
+    "qty": 1.0,
+    "unit": "tsp"
+   }
+  ],
+  "steps": [
+   "Scramble the egg and set aside.",
+   "Stir fry vegetables on high heat.",
+   "Add cold rice, soy sauce and egg, then toss."
+  ],
+  "emoji": "🍳",
+  "tags": [],
+  "color": "#fed7aa",
+  "image": "/static/images/recipes/veg-egg-fried-rice.svg"
+ },
+ {
+  "id": "zucchini-noodles-with-paneer-pesto",
+  "title": "Zucchini Noodles with Paneer Pesto",
+  "meals": [
+   "lunch",
+   "dinner"
+  ],
+  "diet": "vegetarian",
+  "allergens": [
+   "dairy",
+   "tree-nut"
+  ],
+  "cuisine": "Mediterranean",
+  "minutes": 20,
+  "nutrition": {
+   "kcal": 390,
+   "protein": 20,
+   "carbs": 14,
+   "fat": 28
+  },
+  "ingredients": [
+   {
+    "name": "zucchini",
+    "qty": 200.0,
+    "unit": "g"
+   },
+   {
+    "name": "paneer",
+    "qty": 80.0,
+    "unit": "g"
+   },
+   {
+    "name": "basil",
+    "qty": 20.0,
+    "unit": "g"
+   },
+   {
+    "name": "pine nuts",
+    "qty": 10.0,
+    "unit": "g"
+   },
+   {
+    "name": "olive oil",
+    "qty": 1.0,
+    "unit": "tbsp"
+   },
+   {
+    "name": "garlic",
+    "qty": 1.0,
+    "unit": ""
+   }
+  ],
+  "steps": [
+   "Blend basil, pine nuts, garlic and olive oil into pesto.",
+   "Spiralise the zucchini and saute briefly.",
+   "Toss with pesto and seared paneer cubes."
+  ],
+  "emoji": "🥒",
+  "tags": [
+   "high-protein",
+   "keto"
+  ],
+  "color": "#e9d5ff",
+  "image": "/static/images/recipes/zucchini-noodles-with-paneer-pesto.svg"
+ },
+ {
+  "id": "tofu-veggie-stir-fry-with-rice",
+  "title": "Tofu Veggie Stir Fry with Rice",
+  "meals": [
+   "lunch",
+   "dinner"
+  ],
+  "diet": "vegan",
+  "allergens": [
+   "soy",
+   "sesame"
+  ],
+  "cuisine": "Asian",
+  "minutes": 25,
+  "nutrition": {
+   "kcal": 430,
+   "protein": 22,
+   "carbs": 52,
+   "fat": 14
+  },
+  "ingredients": [
+   {
+    "name": "tofu",
+    "qty": 120.0,
+    "unit": "g"
+   },
+   {
+    "name": "rice",
+    "qty": 70.0,
+    "unit": "g"
+   },
+   {
+    "name": "broccoli",
+    "qty": 80.0,
+    "unit": "g"
+   },
+   {
+    "name": "carrot",
+    "qty": 40.0,
+    "unit": "g"
+   },
+   {
+    "name": "soy sauce",
+    "qty": 1.0,
+    "unit": "tbsp"
+   },
+   {
+    "name": "sesame oil",
+    "qty": 1.0,
+    "unit": "tsp"
+   },
+   {
+    "name": "garlic",
+    "qty": 1.0,
+    "unit": ""
+   }
+  ],
+  "steps": [
+   "Press and cube the tofu, then pan sear.",
+   "Stir fry vegetables with garlic.",
+   "Add soy sauce and sesame oil and serve over rice."
+  ],
+  "emoji": "🥦",
+  "tags": [
+   "high-protein"
+  ],
+  "color": "#bfdbfe",
+  "image": "/static/images/recipes/tofu-veggie-stir-fry-with-rice.svg"
+ },
+ {
+  "id": "goan-fish-curry-with-rice",
+  "title": "Goan Fish Curry with Rice",
+  "meals": [
+   "lunch",
+   "dinner"
+  ],
+  "diet": "non-veg",
+  "allergens": [
+   "fish"
+  ],
+  "cuisine": "Indian",
+  "minutes": 35,
+  "nutrition": {
+   "kcal": 520,
+   "protein": 34,
+   "carbs": 58,
+   "fat": 16
+  },
+  "ingredients": [
+   {
+    "name": "white fish",
+    "qty": 150.0,
+    "unit": "g"
+   },
+   {
+    "name": "rice",
+    "qty": 80.0,
+    "unit": "g"
+   },
+   {
+    "name": "coconut milk",
+    "qty": 80.0,
+    "unit": "ml"
+   },
+   {
+    "name": "tomato",
+    "qty": 60.0,
+    "unit": "g"
+   },
+   {
+    "name": "tamarind",
+    "qty": 5.0,
+    "unit": "g"
+   },
+   {
+    "name": "chilli powder",
+    "qty": 0.5,
+    "unit": "tsp"
+   },
+   {
+    "name": "oil",
+    "qty": 1.0,
+    "unit": "tsp"
+   }
+  ],
+  "steps": [
+   "Simmer tomato, tamarind and spices with coconut milk.",
+   "Add fish pieces and cook gently for 8 minutes.",
+   "Serve with steamed rice."
+  ],
+  "emoji": "🐟",
+  "tags": [
+   "high-protein"
+  ],
+  "color": "#fde68a",
+  "image": "/static/images/recipes/goan-fish-curry-with-rice.svg"
+ },
+ {
+  "id": "palak-paneer-with-roti",
+  "title": "Palak Paneer with Roti",
+  "meals": [
+   "lunch",
+   "dinner"
+  ],
+  "diet": "vegetarian",
+  "allergens": [
+   "dairy",
+   "gluten"
+  ],
+  "cuisine": "Indian",
+  "minutes": 30,
+  "nutrition": {
+   "kcal": 480,
+   "protein": 22,
+   "carbs": 36,
+   "fat": 28
+  },
+  "ingredients": [
+   {
+    "name": "spinach",
+    "qty": 150.0,
+    "unit": "g"
+   },
+   {
+    "name": "paneer",
+    "qty": 80.0,
+    "unit": "g"
+   },
+   {
+    "name": "whole wheat flour",
+    "qty": 50.0,
+    "unit": "g"
+   },
+   {
+    "name": "onion",
+    "qty": 40.0,
+    "unit": "g"
+   },
+   {
+    "name": "garlic",
+    "qty": 2.0,
+    "unit": ""
+   },
+   {
+    "name": "oil",
+    "qty": 1.0,
+    "unit": "tbsp"
+   }
+  ],
+  "steps": [
+   "Blanch and puree the spinach.",
+   "Saute onion and garlic, add the puree and paneer.",
+   "Serve with fresh rotis."
+  ],
+  "emoji": "🥬",
+  "tags": [
+   "high-protein"
+  ],
+  "color": "#fde68a",
+  "image": "/static/images/recipes/palak-paneer-with-roti.svg"
+ },
+ {
+  "id": "vegetable-soup-with-multigrain-toast",
+  "title": "Vegetable Soup with Multigrain Toast",
+  "meals": [
+   "dinner"
+  ],
+  "diet": "vegan",
+  "allergens": [
+   "gluten"
+  ],
+  "cuisine": "Continental",
+  "minutes": 25,
+  "nutrition": {
+   "kcal": 280,
+   "protein": 10,
+   "carbs": 44,
+   "fat": 6
+  },
+  "ingredients": [
+   {
+    "name": "mixed vegetables",
+    "qty": 150.0,
+    "unit": "g"
+   },
+   {
+    "name": "multigrain bread",
+    "qty": 1.0,
+    "unit": ""
+   },
+   {
+    "name": "garlic",
+    "qty": 1.0,
+    "unit": ""
+   },
+   {
+    "name": "pepper",
+    "qty": 0.25,
+    "unit": "tsp"
+   },
+   {
+    "name": "olive oil",
+    "qty": 1.0,
+    "unit": "tsp"
+   }
+  ],
+  "steps": [
+   "Saute garlic and vegetables in olive oil.",
+   "Add water and simmer 15 minutes.",
+   "Season and serve with toasted bread."
+  ],
+  "emoji": "🍜",
+  "tags": [
+   "high-fibre",
+   "quick"
+  ],
+  "color": "#bbf7d0",
+  "image": "/static/images/recipes/vegetable-soup-with-multigrain-toast.svg"
+ },
+ {
+  "id": "mixed-veg-pulao-with-raita",
+  "title": "Mixed Veg Pulao with Raita",
+  "meals": [
+   "lunch",
+   "dinner"
+  ],
+  "diet": "vegetarian",
+  "allergens": [
+   "dairy"
+  ],
+  "cuisine": "Indian",
+  "minutes": 30,
+  "nutrition": {
+   "kcal": 450,
+   "protein": 12,
+   "carbs": 72,
+   "fat": 11
+  },
+  "ingredients": [
+   {
+    "name": "rice",
+    "qty": 80.0,
+    "unit": "g"
+   },
+   {
+    "name": "mixed vegetables",
+    "qty": 100.0,
+    "unit": "g"
+   },
+   {
+    "name": "yogurt",
+    "qty": 80.0,
+    "unit": "g"
+   },
+   {
+    "name": "cucumber",
+    "qty": 30.0,
+    "unit": "g"
+   },
+   {
+    "name": "garam masala",
+    "qty": 0.5,
+    "unit": "tsp"
+   },
+   {
+    "name": "oil",
+    "qty": 1.0,
+    "unit": "tbsp"
+   }
+  ],
+  "steps": [
+   "Saute vegetables with garam masala and add rice and water.",
+   "Cook until the rice is fluffy.",
+   "Mix yogurt with cucumber for raita."
+  ],
+  "emoji": "🍚",
+  "tags": [],
+  "color": "#a7f3d0",
+  "image": "/static/images/recipes/mixed-veg-pulao-with-raita.svg"
+ },
+ {
+  "id": "masoor-dal-soup",
+  "title": "Masoor Dal Soup",
+  "meals": [
+   "dinner"
+  ],
+  "diet": "vegan",
+  "allergens": [],
+  "cuisine": "Indian",
+  "minutes": 25,
+  "nutrition": {
+   "kcal": 320,
+   "protein": 18,
+   "carbs": 48,
+   "fat": 5
+  },
+  "ingredients": [
+   {
+    "name": "masoor dal",
+    "qty": 70.0,
+    "unit": "g"
+   },
+   {
+    "name": "onion",
+    "qty": 30.0,
+    "unit": "g"
+   },
+   {
+    "name": "tomato",
+    "qty": 50.0,
+    "unit": "g"
+   },
+   {
+    "name": "garlic",
+    "qty": 2.0,
+    "unit": ""
+   },
+   {
+    "name": "cumin",
+    "qty": 0.5,
+    "unit": "tsp"
+   },
+   {
+    "name": "lemon",
+    "qty": 0.5,
+    "unit": ""
+   }
+  ],
+  "steps": [
+   "Boil dal with onion, tomato and garlic.",
+   "Blend partially for a creamy texture.",
+   "Finish with cumin tempering and lemon."
+  ],
+  "emoji": "🥣",
+  "tags": [
+   "high-protein",
+   "quick"
+  ],
+  "color": "#fecaca",
+  "image": "/static/images/recipes/masoor-dal-soup.svg"
+ },
+ {
+  "id": "pasta-primavera",
+  "title": "Pasta Primavera",
+  "meals": [
+   "dinner"
+  ],
+  "diet": "vegetarian",
+  "allergens": [
+   "gluten",
+   "dairy"
+  ],
+  "cuisine": "Continental",
+  "minutes": 25,
+  "nutrition": {
+   "kcal": 470,
+   "protein": 16,
+   "carbs": 70,
+   "fat": 14
+  },
+  "ingredients": [
+   {
+    "name": "pasta",
+    "qty": 80.0,
+    "unit": "g"
+   },
+   {
+    "name": "zucchini",
+    "qty": 60.0,
+    "unit": "g"
+   },
+   {
+    "name": "capsicum",
+    "qty": 50.0,
+    "unit": "g"
+   },
+   {
+    "name": "cherry tomatoes",
+    "qty": 60.0,
+    "unit": "g"
+   },
+   {
+    "name": "parmesan",
+    "qty": 15.0,
+    "unit": "g"
+   },
+   {
+    "name": "olive oil",
+    "qty": 1.0,
+    "unit": "tbsp"
+   }
+  ],
+  "steps": [
+   "Boil the pasta until al dente.",
+   "Saute vegetables in olive oil.",
+   "Toss together with parmesan."
+  ],
+  "emoji": "🍝",
+  "tags": [],
+  "color": "#a7f3d0",
+  "image": "/static/images/recipes/pasta-primavera.svg"
+ },
+ {
+  "id": "grilled-fish-with-sauteed-vegetables",
+  "title": "Grilled Fish with Sauteed Vegetables",
+  "meals": [
+   "dinner"
+  ],
+  "diet": "non-veg",
+  "allergens": [
+   "fish"
+  ],
+  "cuisine": "Continental",
+  "minutes": 25,
+  "nutrition": {
+   "kcal": 340,
+   "protein": 36,
+   "carbs": 10,
+   "fat": 17
+  },
+  "ingredients": [
+   {
+    "name": "white fish",
+    "qty": 150.0,
+    "unit": "g"
+   },
+   {
+    "name": "broccoli",
+    "qty": 100.0,
+    "unit": "g"
+   },
+   {
+    "name": "capsicum",
+    "qty": 50.0,
+    "unit": "g"
+   },
+   {
+    "name": "olive oil",
+    "qty": 1.0,
+    "unit": "tbsp"
+   },
+   {
+    "name": "lemon",
+    "qty": 0.5,
+    "unit": ""
+   },
+   {
+    "name": "pepper",
+    "qty": 0.25,
+    "unit": "tsp"
+   }
+  ],
+  "steps": [
+   "Season the fish with lemon and pepper.",
+   "Grill 4 minutes per side.",
+   "Saute broccoli and capsicum in olive oil and serve together."
+  ],
+  "emoji": "🐟",
+  "tags": [
+   "high-protein",
+   "keto"
+  ],
+  "color": "#e9d5ff",
+  "image": "/static/images/recipes/grilled-fish-with-sauteed-vegetables.svg"
+ },
+ {
+  "id": "chicken-tikka-with-mint-salad",
+  "title": "Chicken Tikka with Mint Salad",
+  "meals": [
+   "dinner"
+  ],
+  "diet": "non-veg",
+  "allergens": [
+   "dairy"
+  ],
+  "cuisine": "Indian",
+  "minutes": 30,
+  "nutrition": {
+   "kcal": 360,
+   "protein": 40,
+   "carbs": 8,
+   "fat": 18
+  },
+  "ingredients": [
+   {
+    "name": "chicken breast",
+    "qty": 150.0,
+    "unit": "g"
+   },
+   {
+    "name": "yogurt",
+    "qty": 40.0,
+    "unit": "g"
+   },
+   {
+    "name": "garam masala",
+    "qty": 1.0,
+    "unit": "tsp"
+   },
+   {
+    "name": "cucumber",
+    "qty": 60.0,
+    "unit": "g"
+   },
+   {
+    "name": "onion",
+    "qty": 30.0,
+    "unit": "g"
+   },
+   {
+    "name": "mint",
+    "qty": 10.0,
+    "unit": "g"
+   }
+  ],
+  "steps": [
+   "Marinate chicken in yogurt and masala.",
+   "Grill until charred and cooked through.",
+   "Serve with a cucumber-onion-mint salad."
+  ],
+  "emoji": "🍢",
+  "tags": [
+   "high-protein",
+   "keto"
+  ],
+  "color": "#fed7aa",
+  "image": "/static/images/recipes/chicken-tikka-with-mint-salad.svg"
+ },
+ {
+  "id": "quinoa-stuffed-capsicum",
+  "title": "Quinoa Stuffed Capsicum",
+  "meals": [
+   "dinner"
+  ],
+  "diet": "vegan",
+  "allergens": [],
+  "cuisine": "Mediterranean",
+  "minutes": 35,
+  "nutrition": {
+   "kcal": 350,
+   "protein": 13,
+   "carbs": 52,
+   "fat": 10
+  },
+  "ingredients": [
+   {
+    "name": "capsicum",
+    "qty": 2.0,
+    "unit": ""
+   },
+   {
+    "name": "quinoa",
+    "qty": 50.0,
+    "unit": "g"
+   },
+   {
+    "name": "black beans",
+    "qty": 50.0,
+    "unit": "g"
+   },
+   {
+    "name": "tomato",
+    "qty": 50.0,
+    "unit": "g"
+   },
+   {
+    "name": "cumin",
+    "qty": 0.5,
+    "unit": "tsp"
+   },
+   {
+    "name": "olive oil",
+    "qty": 1.0,
+    "unit": "tsp"
+   }
+  ],
+  "steps": [
+   "Cook quinoa and mix with beans, tomato and cumin.",
+   "Stuff into hollowed capsicums.",
+   "Bake 20 minutes at 190 C."
+  ],
+  "emoji": "🫑",
+  "tags": [
+   "high-fibre"
+  ],
+  "color": "#fde68a",
+  "image": "/static/images/recipes/quinoa-stuffed-capsicum.svg"
+ },
+ {
+  "id": "garlic-mushroom-stir-fry",
+  "title": "Garlic Mushroom Stir Fry",
+  "meals": [
+   "dinner"
+  ],
+  "diet": "vegan",
+  "allergens": [],
+  "cuisine": "Continental",
+  "minutes": 15,
+  "nutrition": {
+   "kcal": 220,
+   "protein": 8,
+   "carbs": 10,
+   "fat": 16
+  },
+  "ingredients": [
+   {
+    "name": "mushrooms",
+    "qty": 200.0,
+    "unit": "g"
+   },
+   {
+    "name": "garlic",
+    "qty": 3.0,
+    "unit": ""
+   },
+   {
+    "name": "olive oil",
+    "qty": 1.0,
+    "unit": "tbsp"
+   },
+   {
+    "name": "pepper",
+    "qty": 0.25,
+    "unit": "tsp"
+   },
+   {
+    "name": "parsley",
+    "qty": 5.0,
+    "unit": "g"
+   }
+  ],
+  "steps": [
+   "Slice the mushrooms.",
+   "Saute in olive oil on high heat with garlic.",
+   "Season and finish with parsley."
+  ],
+  "emoji": "🍄",
+  "tags": [
+   "keto",
+   "quick"
+  ],
+  "color": "#a7f3d0",
+  "image": "/static/images/recipes/garlic-mushroom-stir-fry.svg"
+ },
+ {
+  "id": "egg-curry-with-roti",
+  "title": "Egg Curry with Roti",
+  "meals": [
+   "dinner"
+  ],
+  "diet": "vegetarian",
+  "allergens": [
+   "egg",
+   "gluten"
+  ],
+  "cuisine": "Indian",
+  "minutes": 30,
+  "nutrition": {
+   "kcal": 450,
+   "protein": 22,
+   "carbs": 42,
+   "fat": 20
+  },
+  "ingredients": [
+   {
+    "name": "eggs",
+    "qty": 2.0,
+    "unit": ""
+   },
+   {
+    "name": "whole wheat flour",
+    "qty": 50.0,
+    "unit": "g"
+   },
+   {
+    "name": "onion",
+    "qty": 50.0,
+    "unit": "g"
+   },
+   {
+    "name": "tomato",
+    "qty": 80.0,
+    "unit": "g"
+   },
+   {
+    "name": "garam masala",
+    "qty": 1.0,
+    "unit": "tsp"
+   },
+   {
+    "name": "oil",
+    "qty": 1.0,
+    "unit": "tbsp"
+   }
+  ],
+  "steps": [
+   "Hard boil the eggs and peel them.",
+   "Cook an onion-tomato masala and simmer the eggs in it.",
+   "Serve with rotis."
+  ],
+  "emoji": "🥚",
+  "tags": [
+   "high-protein"
+  ],
+  "color": "#fecaca",
+  "image": "/static/images/recipes/egg-curry-with-roti.svg"
+ },
+ {
+  "id": "roasted-chana",
+  "title": "Roasted Chana",
+  "meals": [
+   "snack"
+  ],
+  "diet": "vegan",
+  "allergens": [],
+  "cuisine": "Indian",
+  "minutes": 5,
+  "nutrition": {
+   "kcal": 150,
+   "protein": 8,
+   "carbs": 22,
+   "fat": 3
+  },
+  "ingredients": [
+   {
+    "name": "chickpeas",
+    "qty": 40.0,
+    "unit": "g"
+   },
+   {
+    "name": "chilli powder",
+    "qty": 0.25,
+    "unit": "tsp"
+   },
+   {
+    "name": "salt",
+    "qty": 0.25,
+    "unit": "tsp"
+   }
+  ],
+  "steps": [
+   "Toss roasted chickpeas with spices.",
+   "Serve warm or at room temperature."
+  ],
+  "emoji": "🥜",
+  "tags": [
+   "high-fibre",
+   "quick"
+  ],
+  "color": "#fed7aa",
+  "image": "/static/images/recipes/roasted-chana.svg"
+ },
+ {
+  "id": "fruit-and-nut-mix",
+  "title": "Fruit and Nut Mix",
+  "meals": [
+   "snack"
+  ],
+  "diet": "vegan",
+  "allergens": [
+   "tree-nut"
+  ],
+  "cuisine": "Continental",
+  "minutes": 2,
+  "nutrition": {
+   "kcal": 160,
+   "protein": 4,
+   "carbs": 14,
+   "fat": 10
+  },
+  "ingredients": [
+   {
+    "name": "almonds",
+    "qty": 15.0,
+    "unit": "g"
+   },
+   {
+    "name": "walnuts",
+    "qty": 10.0,
+    "unit": "g"
+   },
+   {
+    "name": "apple",
+    "qty": 0.5,
+    "unit": ""
+   }
+  ],
+  "steps": [
+   "Slice the apple.",
+   "Serve with the nuts."
+  ],
+  "emoji": "🍎",
+  "tags": [
+   "quick"
+  ],
+  "color": "#bbf7d0",
+  "image": "/static/images/recipes/fruit-and-nut-mix.svg"
+ },
+ {
+  "id": "hummus-with-veggie-sticks",
+  "title": "Hummus with Veggie Sticks",
+  "meals": [
+   "snack"
+  ],
+  "diet": "vegan",
+  "allergens": [
+   "sesame"
+  ],
+  "cuisine": "Mediterranean",
+  "minutes": 10,
+  "nutrition": {
+   "kcal": 170,
+   "protein": 6,
+   "carbs": 18,
+   "fat": 8
+  },
+  "ingredients": [
+   {
+    "name": "chickpeas",
+    "qty": 50.0,
+    "unit": "g"
+   },
+   {
+    "name": "tahini",
+    "qty": 1.0,
+    "unit": "tbsp"
+   },
+   {
+    "name": "lemon",
+    "qty": 0.5,
+    "unit": ""
+   },
+   {
+    "name": "carrot",
+    "qty": 60.0,
+    "unit": "g"
+   },
+   {
+    "name": "cucumber",
+    "qty": 60.0,
+    "unit": "g"
+   }
+  ],
+  "steps": [
+   "Blend chickpeas, tahini and lemon.",
+   "Cut the vegetables into sticks.",
+   "Dip and enjoy."
+  ],
+  "emoji": "🥕",
+  "tags": [
+   "high-fibre",
+   "quick"
+  ],
+  "color": "#fecaca",
+  "image": "/static/images/recipes/hummus-with-veggie-sticks.svg"
+ },
+ {
+  "id": "masala-buttermilk",
+  "title": "Masala Buttermilk",
+  "meals": [
+   "snack"
+  ],
+  "diet": "vegetarian",
+  "allergens": [
+   "dairy"
+  ],
+  "cuisine": "Indian",
+  "minutes": 5,
+  "nutrition": {
+   "kcal": 70,
+   "protein": 3,
+   "carbs": 8,
+   "fat": 2
+  },
+  "ingredients": [
+   {
+    "name": "yogurt",
+    "qty": 100.0,
+    "unit": "g"
+   },
+   {
+    "name": "cumin",
+    "qty": 0.25,
+    "unit": "tsp"
+   },
+   {
+    "name": "mint",
+    "qty": 5.0,
+    "unit": "g"
+   },
+   {
+    "name": "salt",
+    "qty": 0.25,
+    "unit": "tsp"
+   }
+  ],
+  "steps": [
+   "Whisk yogurt with 150 ml water.",
+   "Add roasted cumin, mint and salt.",
+   "Serve chilled."
+  ],
+  "emoji": "🥛",
+  "tags": [
+   "quick"
+  ],
+  "color": "#fbcfe8",
+  "image": "/static/images/recipes/masala-buttermilk.svg"
+ },
+ {
+  "id": "boiled-egg-chaat",
+  "title": "Boiled Egg Chaat",
+  "meals": [
+   "snack"
+  ],
+  "diet": "vegetarian",
+  "allergens": [
+   "egg"
+  ],
+  "cuisine": "Indian",
+  "minutes": 10,
+  "nutrition": {
+   "kcal": 140,
+   "protein": 12,
+   "carbs": 4,
+   "fat": 8
+  },
+  "ingredients": [
+   {
+    "name": "eggs",
+    "qty": 2.0,
+    "unit": ""
+   },
+   {
+    "name": "onion",
+    "qty": 20.0,
+    "unit": "g"
+   },
+   {
+    "name": "tomato",
+    "qty": 30.0,
+    "unit": "g"
+   },
+   {
+    "name": "coriander",
+    "qty": 5.0,
+    "unit": "g"
+   },
+   {
+    "name": "pepper",
+    "qty": 0.25,
+    "unit": "tsp"
+   }
+  ],
+  "steps": [
+   "Boil and halve the eggs.",
+   "Top with onion, tomato, coriander and pepper."
+  ],
+  "emoji": "🥚",
+  "tags": [
+   "high-protein",
+   "keto",
+   "quick"
+  ],
+  "color": "#bbf7d0",
+  "image": "/static/images/recipes/boiled-egg-chaat.svg"
+ },
+ {
+  "id": "cucumber-peanut-salad",
+  "title": "Cucumber Peanut Salad",
+  "meals": [
+   "snack"
+  ],
+  "diet": "vegan",
+  "allergens": [
+   "peanut"
+  ],
+  "cuisine": "Asian",
+  "minutes": 8,
+  "nutrition": {
+   "kcal": 130,
+   "protein": 5,
+   "carbs": 10,
+   "fat": 8
+  },
+  "ingredients": [
+   {
+    "name": "cucumber",
+    "qty": 120.0,
+    "unit": "g"
+   },
+   {
+    "name": "peanuts",
+    "qty": 15.0,
+    "unit": "g"
+   },
+   {
+    "name": "lemon",
+    "qty": 0.5,
+    "unit": ""
+   },
+   {
+    "name": "chilli powder",
+    "qty": 0.25,
+    "unit": "tsp"
+   }
+  ],
+  "steps": [
+   "Slice the cucumber.",
+   "Toss with crushed peanuts, lemon and chilli."
+  ],
+  "emoji": "🥒",
+  "tags": [
+   "quick"
+  ],
+  "color": "#fed7aa",
+  "image": "/static/images/recipes/cucumber-peanut-salad.svg"
+ },
+ {
+  "id": "tuna-cucumber-boats",
+  "title": "Tuna Cucumber Boats",
+  "meals": [
+   "snack"
+  ],
+  "diet": "non-veg",
+  "allergens": [
+   "fish"
+  ],
+  "cuisine": "Continental",
+  "minutes": 10,
+  "nutrition": {
+   "kcal": 180,
+   "protein": 20,
+   "carbs": 5,
+   "fat": 9
+  },
+  "ingredients": [
+   {
+    "name": "tuna",
+    "qty": 80.0,
+    "unit": "g"
+   },
+   {
+    "name": "cucumber",
+    "qty": 100.0,
+    "unit": "g"
+   },
+   {
+    "name": "olive oil",
+    "qty": 1.0,
+    "unit": "tsp"
+   },
+   {
+    "name": "pepper",
+    "qty": 0.25,
+    "unit": "tsp"
+   }
+  ],
+  "steps": [
+   "Halve the cucumber and scoop out the centre.",
+   "Mix tuna with olive oil and pepper and fill the boats."
+  ],
+  "emoji": "🐟",
+  "tags": [
+   "high-protein",
+   "keto",
+   "quick"
+  ],
+  "color": "#e9d5ff",
+  "image": "/static/images/recipes/tuna-cucumber-boats.svg"
+ }
+]
