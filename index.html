@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Personalized Recipe &amp; Meal Generator</title>
+<link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+<header class="hero"><img src="/static/images/banner.svg" alt="Personalized Recipe and Meal Generator banner"></header>
+<main>
+<section class="panel" id="form-panel">
+  <h2>Your profile</h2>
+  <div class="grid">
+    <label>Name <input id="name" maxlength="40" placeholder="Riya"></label>
+    <label>Diet <select id="diet"></select></label>
+    <label>Days in plan <select id="days"></select></label>
+    <label>Daily calories (optional) <input id="calorie_goal" type="number" min="800" max="5000" placeholder="auto"></label>
+  </div>
+  <fieldset><legend>Allergies (always excluded)</legend><div id="allergies" class="chips"></div></fieldset>
+  <fieldset><legend>Favourite cuisines</legend><div id="cuisines" class="chips"></div></fieldset>
+  <div class="grid">
+    <label>Dislikes (comma separated) <input id="dislikes" placeholder="mushrooms, tofu"></label>
+    <label>Ingredients you have <input id="pantry" placeholder="rice, paneer, spinach"></label>
+  </div>
+  <details>
+    <summary>Calculate my calories (optional)</summary>
+    <div class="grid">
+      <label>Age <input id="age" type="number" min="12" max="100"></label>
+      <label>Sex <select id="sex"><option value="">-</option><option>male</option><option>female</option></select></label>
+      <label>Weight (kg) <input id="weight_kg" type="number" min="25" max="300" step="0.1"></label>
+      <label>Height (cm) <input id="height_cm" type="number" min="100" max="250"></label>
+      <label>Activity <select id="activity"></select></label>
+      <label>Goal <select id="goal"></select></label>
+    </div>
+  </details>
+  <div class="row">
+    <label class="inline"><input type="checkbox" id="low_carb"> Low-carb / keto style</label>
+    <label class="inline"><input type="checkbox" id="include_snacks" checked> Include snacks</label>
+  </div>
+  <div class="row">
+    <button id="generate" class="primary">Generate my meal plan</button>
+    <button id="ai-btn" class="ghost" title="Needs ANTHROPIC_API_KEY on the server">Ask the AI chef for a dinner idea</button>
+  </div>
+  <p id="error" class="error" role="alert" hidden></p>
+</section>
+
+<section id="results" hidden>
+  <div id="summary" class="panel"></div>
+  <div id="notes"></div>
+  <div class="panel">
+    <div id="tabs" class="tabs" role="tablist"></div>
+    <div id="meals" class="cards"></div>
+  </div>
+  <div class="panel">
+    <div class="row between"><h2>Shopping list</h2>
+      <span><button id="copy-list" class="ghost">Copy</button> <button id="print" class="ghost">Print plan</button></span></div>
+    <div id="shopping"></div>
+  </div>
+</section>
+<section id="ai-result" class="panel" hidden></section>
+</main>
+<footer>Nutrition values are estimates, not medical advice. Always check labels if you have allergies.</footer>
+<script src="/static/app.js"></script>
+</body>
+</html>

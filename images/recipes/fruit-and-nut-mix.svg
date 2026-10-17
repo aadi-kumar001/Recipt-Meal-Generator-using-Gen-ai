@@ -1,0 +1,9 @@
+<svg viewBox="0 0 400 250" xmlns="http://www.w3.org/2000/svg">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#bbf7d0"/><stop offset="1" stop-color="#ffffff"/></linearGradient></defs>
+<rect width="400" height="250" fill="url(#g)"/>
+<ellipse cx="200" cy="135" rx="150" ry="95" fill="#00000012"/>
+<ellipse cx="200" cy="125" rx="145" ry="92" fill="#ffffff"/>
+<ellipse cx="200" cy="125" rx="118" ry="72" fill="#f8fafc" stroke="#e2e8f0" stroke-width="3"/>
+<circle cx="120" cy="101" r="11" fill="#facc15" opacity="0.85"/><circle cx="189" cy="85" r="10" fill="#f59e0b" opacity="0.85"/><circle cx="236" cy="157" r="15" fill="#ef4444" opacity="0.85"/><circle cx="108" cy="126" r="14" fill="#ef4444" opacity="0.85"/><circle cx="205" cy="100" r="15" fill="#16a34a" opacity="0.85"/><circle cx="264" cy="152" r="15" fill="#f59e0b" opacity="0.85"/><circle cx="245" cy="93" r="12" fill="#ef4444" opacity="0.85"/><circle cx="225" cy="96" r="16" fill="#a3e635" opacity="0.85"/><circle cx="202" cy="88" r="12" fill="#facc15" opacity="0.85"/><circle cx="243" cy="124" r="11" fill="#84cc16" opacity="0.85"/><circle cx="250" cy="117" r="10" fill="#a3e635" opacity="0.85"/><circle cx="176" cy="140" r="13" fill="#f59e0b" opacity="0.85"/><circle cx="163" cy="113" r="16" fill="#facc15" opacity="0.85"/><circle cx="244" cy="106" r="9" fill="#a3e635" opacity="0.85"/><circle cx="120" cy="164" r="14" fill="#a3e635" opacity="0.85"/><circle cx="135" cy="112" r="7" fill="#f59e0b" opacity="0.85"/>
+<text x="200" y="150" font-size="72" text-anchor="middle">🍎</text>
+</svg>

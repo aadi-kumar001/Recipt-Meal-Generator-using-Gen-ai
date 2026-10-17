@@ -1,0 +1,56 @@
+:root{--bg:#f6f8f5;--card:#fff;--text:#14231b;--muted:#5b6b62;--brand:#16a34a;--brand-d:#15803d;--line:#e3e9e4;--warn:#b45309}
+@media (prefers-color-scheme:dark){:root{--bg:#0f1713;--card:#17231c;--text:#e8f1ea;--muted:#9bb0a2;--line:#27382d;--warn:#fbbf24}}
+*{box-sizing:border-box}
+body{margin:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif;background:var(--bg);color:var(--text);line-height:1.5}
+.hero img{width:100%;max-height:230px;object-fit:cover;display:block}
+main{max-width:1050px;margin:0 auto;padding:16px}
+.panel{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:18px;margin:16px 0}
+h2{margin:0 0 12px}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:12px;margin:10px 0}
+label{display:flex;flex-direction:column;font-size:.9rem;color:var(--muted);gap:4px}
+label.inline{flex-direction:row;align-items:center;gap:6px;color:var(--text)}
+input,select{padding:9px 10px;border:1px solid var(--line);border-radius:10px;background:var(--bg);color:var(--text);font-size:1rem}
+fieldset{border:1px solid var(--line);border-radius:12px;margin:10px 0}
+legend{font-size:.85rem;color:var(--muted);padding:0 6px}
+.chips{display:flex;flex-wrap:wrap;gap:8px}
+.chip{display:inline-flex;flex-direction:row;align-items:center;gap:6px;padding:5px 12px;border:1px solid var(--line);border-radius:999px;cursor:pointer;color:var(--text)}
+.chip:has(input:checked){background:var(--brand);color:#fff;border-color:var(--brand)}
+.chip{position:relative}
+.chip input{position:absolute;opacity:0;inset:0;width:100%;height:100%;cursor:pointer;margin:0}
+.chip:has(input:focus-visible){outline:3px solid var(--brand-d);outline-offset:2px}
+.row{display:flex;gap:12px;flex-wrap:wrap;align-items:center;margin:10px 0}
+.between{justify-content:space-between}
+button{font:inherit;cursor:pointer;border-radius:10px;padding:10px 16px;border:1px solid var(--brand);background:transparent;color:var(--brand)}
+button.primary{background:var(--brand);color:#fff;font-weight:600}
+button.primary:hover{background:var(--brand-d)}
+button:disabled{opacity:.6;cursor:wait}
+.error{color:#dc2626;font-weight:600}
+.tabs{display:flex;gap:8px;overflow-x:auto;padding-bottom:6px}
+.tab{white-space:nowrap}
+.tab[aria-selected=true]{background:var(--brand);color:#fff}
+.cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:14px;margin-top:12px}
+.card{border:1px solid var(--line);border-radius:14px;overflow:hidden;background:var(--card);display:flex;flex-direction:column}
+.card img{width:100%;aspect-ratio:8/5;object-fit:cover}
+.card .body{padding:12px;display:flex;flex-direction:column;gap:8px;flex:1}
+.slot{text-transform:uppercase;font-size:.72rem;letter-spacing:.08em;color:var(--brand);font-weight:700}
+.card h3{margin:0;font-size:1.05rem}
+.meta{font-size:.82rem;color:var(--muted)}
+.macros{display:grid;grid-template-columns:repeat(4,1fr);gap:6px;text-align:center}
+.macros div{background:var(--bg);border-radius:8px;padding:5px 2px;font-size:.8rem}
+.macros b{display:block;font-size:.95rem}
+.card details{font-size:.88rem}
+.card ul,.card ol{margin:6px 0;padding-left:20px}
+.stars button{border:none;padding:0 2px;font-size:1.2rem;color:#f59e0b}
+.card .actions{display:flex;justify-content:space-between;align-items:center;margin-top:auto}
+.stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:12px}
+.stat{background:var(--bg);border-radius:12px;padding:10px}
+.stat b{font-size:1.3rem}
+.bar{height:6px;background:var(--line);border-radius:4px;margin-top:6px;overflow:hidden}
+.bar span{display:block;height:100%;background:var(--brand)}
+.note{background:#fef3c7;color:#78350f;border-radius:10px;padding:8px 12px;margin:8px 0;font-size:.9rem}
+.shop-group h4{margin:12px 0 4px;color:var(--brand)}
+.shop-group label{flex-direction:row;gap:8px;color:var(--text);padding:2px 0}
+.shop-group input:checked+span{text-decoration:line-through;color:var(--muted)}
+.have{font-size:.75rem;background:var(--line);padding:1px 8px;border-radius:999px;color:var(--muted)}
+footer{text-align:center;color:var(--muted);font-size:.85rem;padding:20px}
+@media print{.hero,#form-panel,.actions,.tabs,button,#ai-result{display:none!important}.card{break-inside:avoid}}
